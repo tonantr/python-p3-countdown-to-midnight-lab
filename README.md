@@ -29,7 +29,7 @@ is called.
 
 This lab is going to test your skills in writing while loops. Remember, a
 `while` loop will execute your block of code only _while_ your defined condition
-evaluates as `True`.
+evaluates as `True`..
 
 For example, this script:
 
